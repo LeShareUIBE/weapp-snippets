@@ -1,2 +1,1 @@
-# weapp-snippets
-weapp sublime snippet
+# tc-weapp-snippets
